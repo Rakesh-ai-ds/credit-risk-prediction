@@ -2,7 +2,7 @@
 
 A machine learning-powered web application that predicts credit card approval risk using Streamlit. The app analyzes various applicant features to determine the likelihood of credit default.
 
-## 🚀 Features
+##  Features
 
 - **Interactive Web Interface**: User-friendly Streamlit application
 - **Real-time Risk Prediction**: Instant risk assessment based on applicant data
@@ -10,7 +10,7 @@ A machine learning-powered web application that predicts credit card approval ri
 - **Machine Learning Model**: Trained model for accurate risk prediction
 - **Confidence Score**: Provides prediction confidence level
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,7 +21,7 @@ A machine learning-powered web application that predicts credit card approval ri
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 
@@ -63,7 +63,7 @@ Ensure all required packages are installed:
 - pickle
 - numpy
 
-## 🚀 Usage
+##  Usage
 
 ### Running the Application
 
@@ -81,7 +81,7 @@ Ensure all required packages are installed:
    - Click "Predict Risk" button
    - View the prediction result and confidence score
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 credit-risk-prediction/
@@ -104,7 +104,7 @@ credit-risk-prediction/
 └── .gitignore                          # Git ignore file
 ```
 
-## 📊 Input Parameters
+##  Input Parameters
 
 The application accepts the following input parameters:
 
@@ -126,7 +126,7 @@ The application accepts the following input parameters:
 - **CB Person Default on File**: Previous defaults (Y/N)
 - **CB Person Credit History Length**: Length of credit history (years)
 
-## 🤖 Model Information
+##  Model Information
 
 ### Model Training Process
 
@@ -155,7 +155,7 @@ The application accepts the following input parameters:
 - **Predicted Risk**: Binary classification (0 = Low Risk, 1 = High Risk)
 - **Confidence Score**: Probability score indicating prediction confidence
 
-## 🏃‍♂️ Running the Application
+##  Running the Application
 
 ### Method 1: Direct Run
 
@@ -177,7 +177,7 @@ streamlit run app.py --server.port 8502
 streamlit run app.py --server.address 0.0.0.0
 ```
 
-## 🔧 Development Setup
+##  Development Setup
 
 ### For Model Training
 
@@ -208,7 +208,7 @@ streamlit run app.py --server.address 0.0.0.0
    streamlit run app.py --server.runOnSave true
    ```
 
-## 📝 Example Usage
+##  Example Usage
 
 ### Sample Input Data
 
@@ -234,7 +234,7 @@ Predicted Risk: 1
 Confidence: 0.58
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -242,24 +242,24 @@ Confidence: 0.58
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+##  Author
 
 **Rakesh**
 - GitHub: [@Rakesh-ai-ds](https://github.com/Rakesh-ai-ds)
 - Repository: [credit-risk-prediction](https://github.com/Rakesh-ai-ds/credit-risk-prediction)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset source and contributors
 - Streamlit framework for the web interface
 - Scikit-learn for machine learning capabilities
 - Open source community for various tools and libraries
 
-## 📞 Support
+##  Support
 
 If you encounter any issues or have questions:
 1. Check the existing issues on GitHub
@@ -268,4 +268,3 @@ If you encounter any issues or have questions:
 
 ---
 
-**Note**: This application is for educational and demonstration purposes. Please ensure proper validation and testing before using in production environments.
