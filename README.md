@@ -267,5 +267,5 @@ If you encounter any issues or have questions:
 3. Provide steps to reproduce the problem
 
 ---
-https://github.com/Rakesh-ai-ds/credit-risk-prediction/blob/135533a2771787811dcb1d13290e0e2c5823c7b8/9d537fd3-1f76-4109-b093-52cb0e5959f9.jpg
+![image alt](https://github.com/Rakesh-ai-ds/credit-risk-prediction/blob/135533a2771787811dcb1d13290e0e2c5823c7b8/9d537fd3-1f76-4109-b093-52cb0e5959f9.jpg)
 
