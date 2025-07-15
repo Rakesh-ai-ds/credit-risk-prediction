@@ -251,8 +251,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Rakesh**
 - GitHub: [@Rakesh-ai-ds](https://github.com/Rakesh-ai-ds)
 - Repository: [credit-risk-prediction](https://github.com/Rakesh-ai-ds/credit-risk-prediction)
-  Rakesh – AI & Data Science Student
-  rakeshrevathi2006@gmail.com
+- Rakesh – AI & Data Science Student
+- rakeshrevathi2006@gmail.com
 
 
 
